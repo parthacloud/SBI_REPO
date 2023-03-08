@@ -1,1 +1,5 @@
+class wish[
+
 hi,hlooo
+]
+
